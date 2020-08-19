@@ -1,0 +1,6 @@
+CLS
+LET P$ = "POKHARA"
+FOR J = 1 TO 7
+    PRINT LEFT$(P$, J)
+NEXT J
+END
